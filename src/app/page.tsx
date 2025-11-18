@@ -32,6 +32,7 @@ export default function Home() {
               InstaQR
             </h1>
             <p className="text-slate-400 mt-2">Crea y descarga tu código QR en segundos.</p>
+            <p className="text-slate-500 text-xs mt-1">Hecho por <span className="text-blue-400 font-semibold">H.M. Axel</span></p>
           </div>
 
           {/* Input de Texto */}
